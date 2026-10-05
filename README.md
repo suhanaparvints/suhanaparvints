@@ -1,21 +1,26 @@
 <div align="center">
   
-<h1 align="center"><i>Hi there, I'm</i> <a href="www.linkedin.com/in/suhanaparvints  ">Suhana Parvin T S</a> <img src="animated/unicorn.gif" height="40" />
+<h1 align="center"><i>Hi there, I'm</i><a href="https://www.linkedin.com/in/suhanaparvints/">Suhana Parvin T S</a> <img src="animated/unicorn.gif" height="40" />
 </h1>
 
 ### 💻 Full-Stack Developer | 🚀 Software Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Suhanaparvints)
-[![Resume](https://img.shields.io/badge/Resume-34495e?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](/resume/Suhana_Parvin_CV.docx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhanaparvints/)
+[![Resume](https://img.shields.io/badge/Resume-34495e?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./resume/Suhana_Parvin_CV.docx)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhanaparvints@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+918714423106)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/v3JbS84BAD/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918714423106)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/suhana_parvin_ts/)
 
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png"
+     min-width="300px"
+     max-width="300px"
+     width="350px"
+     align="right"
+     alt="Developer illustration">
 
 - 💻 **Full-Stack Developer** | MERN Stack • Laravel • Nuxt
 - 💼 **Ex-Software Developer Intern @ KonceptsLab**
@@ -32,8 +37,9 @@
 ![Client Satisfaction](https://img.shields.io/badge/Client_Satisfied-78%25-brightgreen?logo=github)
 
 🤖 My Digital Stats :  
-[![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-1k+-blue?logo=linkedin)](https://www.linkedin.com/in/Suhanaparvints) [![GitHub Stars](https://img.shields.io/github/stars/Suhanaparvints?style=flat-square&logo=github)](https://github.com/Suhanaparvints)
-[![GitHub Followers](https://img.shields.io/github/followers/Suhanaparvints?style=flat-square&logo=github)](https://github.com/Suhanaparvints?tab=followers) [![Profile Views](https://visitcountpro.netlify.app/api?id=Suhanaparvints&pretty=true)](https://visitcount.itsvg.in)
+[![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-1k%2B-blue?logo=linkedin)](https://www.linkedin.com/in/suhanaparvints/)
+[![GitHub Stars](https://img.shields.io/github/stars/suhanaparvints?style=flat-square&logo=github)](https://github.com/suhanaparvints)
+[![GitHub Followers](https://img.shields.io/github/followers/suhanaparvints?style=flat-square&logo=github)](https://github.com/suhanaparvints?tab=followers)[![Profile Views](https://visitcountpro.netlify.app/api?id=suhanaparvints&pretty=true)](https://visitcount.itsvg.in/)
 
 ---
 
@@ -94,7 +100,7 @@
 
 ## 🧑🏻‍💻Leetcode Stats
 
-[![Leetcode stats](https://leetcard.jacoblin.cool/Suhanaparvints?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/Suhanaparvints/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/suhana_parvin_ts?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/suhana_parvin_ts/)
 
 ---
 
